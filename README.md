@@ -1,4 +1,4 @@
-👋 Hello, I'm @SujalRaunak
+👋 Hello, I'm [SujalRaunak]!
 
 🚀 I'm a professional software developer and engineer with a passion for creating cutting-edge web applications. With [X] years of hands-on experience, I have expertise in a wide range of technologies, including HTML, CSS, and JavaScript, as well as popular frameworks like React.js, Next.js, and TypeScript.
 
