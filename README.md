@@ -1,6 +1,6 @@
 👋 Hello, I'm SujalRaunak!
 
-🚀 I'm a professional software developer and engineer with a passion for creating cutting-edge web applications. With [X] years of hands-on experience, I have expertise in a wide range of technologies, including HTML, CSS, and JavaScript, as well as popular frameworks like React.js, Next.js, and TypeScript.
+🚀 I'm a professional software developer and engineer with a passion for creating cutting-edge web applications. With two years of hands-on experience, I have expertise in a wide range of technologies, including HTML, CSS, and JavaScript, as well as popular frameworks like React.js, Next.js, and TypeScript.
 
 💻 I specialize in frontend development, with a keen eye for UI/UX design. I excel at understanding clients' requirements and translating them into intuitive and visually appealing user interfaces. My proficiency in frameworks like Tailwind CSS and Bootstrap allows me to create responsive and modern designs that enhance user experience.
 
